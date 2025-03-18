@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c4241aef38da2964b85bf59c4610ca3a
+timeCreated: 1526694024
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118038
+  packageName: Swords Collection Vol.01
+  packageVersion: 1.0
+  assetPath: Assets/LCRG Sword Collection/Vol 01/Prefabs/LCRG_Swords_03.prefab
+  uploadId: 246903

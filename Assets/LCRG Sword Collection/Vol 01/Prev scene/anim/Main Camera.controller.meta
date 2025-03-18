@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b2dd69b7fefa7c348902cfb211c38c93
+timeCreated: 1525394536
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118038
+  packageName: Swords Collection Vol.01
+  packageVersion: 1.0
+  assetPath: Assets/LCRG Sword Collection/Vol 01/Prev scene/anim/Main Camera.controller
+  uploadId: 246903

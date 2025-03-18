@@ -1,12 +1,16 @@
 using UnityEngine;
 using System.Threading.Tasks;
+using UnityEngine.AI;
 
 
 public class EnemyIdleState : StateMachineBehaviour
 {
+    NavMeshAgent agent;
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
-    override public async  void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+    override public async void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
+        agent = animator.GetComponent<NavMeshAgent>();
+        agent.speed = 0;
         await Task.Delay(5000);
         animator.SetBool("isPatrol", true);
     }

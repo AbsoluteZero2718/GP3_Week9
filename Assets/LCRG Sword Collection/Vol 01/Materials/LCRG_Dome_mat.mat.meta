@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dedda64c20dbf8c4cb2d65b919b6d07f
+timeCreated: 1524625909
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118038
+  packageName: Swords Collection Vol.01
+  packageVersion: 1.0
+  assetPath: Assets/LCRG Sword Collection/Vol 01/Materials/LCRG_Dome_mat.mat
+  uploadId: 246903
